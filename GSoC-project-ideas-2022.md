@@ -156,7 +156,7 @@ _Required skills_:
 
 _Duration_: ~175 or ~350 hours
 
-_Mentor_: [Ryan Leonard](https://www.linkedin.com/in/codelenny/), Secondary: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/)
+_Mentor_: [Flyyn Leonard](https://www.linkedin.com/in/codelenny/), Secondary: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/)
 
 
 ## WIP proposals
