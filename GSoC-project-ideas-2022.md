@@ -10,7 +10,6 @@ This page lists specific project proposals of interest to the OSFPGA community. 
 encouraged to propose ideas outside of this list, however project acceptance depends on our ability
 to identify willing mentors. Mentors are available for the projects below.
 
-
 See the [Google Summer of Code website](https://summerofcode.withgoogle.com/) for more information.
 The roll of the "umbrella organization" is described
 [here](https://google.github.io/gsocguides/mentor/org-application#a-note-on-umbrella-orgs).
@@ -30,7 +29,7 @@ considering for vendor-agnostic FPGA support.
 
 _Discussion_: [TL-Verilog User's Slack workspace](https://join.slack.com/t/tl-verilog-users/shared_invite/zt-4fatipnr-dmDgkbzrCe0ZRLOOVm89gA) `#1st-claas` channel.
 
-_Skill level_: Intermediate/Advanced
+_Skill level_: Advanced
 
 _Required skills_:
   - FPGAs
@@ -59,7 +58,7 @@ Some notes on hosting FPGAs can be found
 Specifically, this summer project will be to develop the initial Worldwide Registry. Citizens will be registered
 via an API. Missions will be assigned via an API. A web front-end will present the state of the World.
 
-_Skill level_: Intermediate/Advanced
+_Skill level_: Advanced
 
 _Required skills_
   - Web development
