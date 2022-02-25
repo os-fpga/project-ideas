@@ -39,7 +39,7 @@ _Required skills_:
 
 _Duration_: ~350 hours
 
-_Mentor_: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
+_Mentor_: [Theo Omtzigt](https://www.linkedin.com/in/theodoreomtzigt/) ([email](mailto:theo@stillwater-sc.com)), [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
 
 
 ## World CLaaS: Open FPGA Cloud
