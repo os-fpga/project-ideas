@@ -158,6 +158,34 @@ _Duration_: ~175 or ~350 hours
 _Mentor_: [Flyyn Leonard](https://www.linkedin.com/in/codelenny/), Secondary: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/)
 
 
+### Neural Network on FPGA
+
+Like [warp-v.org](https://warp-v.org) demonstrates configurable, visualizable CPU cores that can be run on FPGA, this project will contribute to similar configurable, visualizable, neural network logic. A simple example is provided by the mentor at: https://github.com/vineetjain07/DNN_TL-V. This project will use the free Makerchip.com IDE, and the model will be coded in TL-Verilog.
+
+This project is multi-facited. Contributors will focus on multiple, but not all of the following aspects of the project. Applications should clearly define a realistic scope and timeline that target the applicant's strengths.
+
+  - TL-Verilog logic, configurable using M4.
+  - Visualization of the logic using Makerchip's Visual Debug feature.
+  - FPGA implementation of the logic using this [Virtual FPGA Lab](https://github.com/os-fpga/Virtual-FPGA-Lab) and exporting to and testing on physical FPGAs.
+  - Web front-end configurator for the ML logic.
+
+The resulting work will be useful in an educational context to demonstrate neural networks, digital logic design, and transaction-level design methodology.
+
+_Skill level_: Advanced
+
+_Required skills_:
+
+  - TL-Verilog
+  - Macro preprocessing
+  - Makerchip
+  - FPGAs
+  - Web development, including React
+
+_Duration_: ~350 hours
+
+_Mentor_: [Vineet Jain](https://www.linkedin.com/in/vineetjain78/), Secondary: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/)
+
+
 ## WIP proposals
 
 1st CLaaS or FireSim Port to VMAccel
