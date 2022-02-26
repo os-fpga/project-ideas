@@ -133,7 +133,7 @@ _Required skills_
 
 _Duration_: ~175 or ~350 hours
 
-_Mentor_: [Tim Edwards (to be confirmed)](https://www.linkedin.com/in/tim-edwards-4376a18/) ([email](mailto:tim@opencircuitdesign.com)), Secondary: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
+_Mentor_: one of several Efabless guys, ([email](mailto:tim@opencircuitdesign.com)), Secondary: [Steve Hoover](https://www.linkedin.com/in/steve-hoover-a44b607/) ([email](mailto:steve.hoover@redwoodeda.com))
 
 
 ### FractalValley
