@@ -18,6 +18,50 @@ umbrella organization.
 
 ## Project Ideas
 
+### Hardware Object Technology (HOT)
+
+HOT is a system that:
+
+  - HOT class contains device independent methods and fields that deliver and use an FPGA
+bitstream.
+  - Takes an FPGA bitstream and turns it into a static array which can then be compiled into the
+program or library.
+  - Uses standard memory map driver and a portable DMA engine
+  - Uses standard Linux read and write functions
+
+_Skill level_: Advanced
+
+Required skills:
+
+  - FPGAs
+  - Linux and Linux drivers
+  - C++/Java
+
+_Duration_: ~350 hours
+
+_Mentor_: Steve Casselman
+
+
+### Hotman
+
+Hotman is a client/server architecture in which HOTs and commands can be issued to any node. It has a
+plugin technology that allows easy integration of user routines. The user can create hardware objects by
+reading in a bitstream and filling out information in a GUI.
+
+_Skill level_: Advanced
+
+_Required skills_:
+
+  - FPGAs
+  - Linux and Linux drivers
+  - C++/Java
+  - Scripting
+
+_Duration_: ~350 hours
+
+_Mentor_: Steve Casselman
+
+
 ### 1st CLaaS for Local FPGAs
 
 [1st ClaaS](https://github.com/stevehoover/1st-CLaaS) supports web application communication with FPGA
