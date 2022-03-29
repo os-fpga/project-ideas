@@ -236,3 +236,18 @@ _Mentor_: [Vineet Jain](https://www.linkedin.com/in/vineetjain78/), Secondary: [
 
 Duration: ~350 hours
 
+### Support VCD files in OpenFPGA
+
+See details in the OpenFPGA (issue)[https://github.com/lnis-uofu/OpenFPGA/issues/508]
+
+_Skill Level_: Advanced
+
+_Required skills_:
+
+  - C++
+  - Python
+  - Parser
+
+_Duration_: ~350 hours
+
+_Mentor_: [Xifan Tang](https://www.linkedin.com/in/xifantang/)
